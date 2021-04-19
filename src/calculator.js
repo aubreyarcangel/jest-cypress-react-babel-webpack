@@ -76,6 +76,7 @@ function Calculator() {
       operator: null,
       waitingForOperand: false,
     })
+    console.log('hi')
   }
 
   function clearDisplay() {
